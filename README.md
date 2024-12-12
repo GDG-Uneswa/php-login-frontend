@@ -57,7 +57,7 @@ We welcome contributions to enhance this project! Please follow the guidelines b
 
 For any questions or collaboration opportunities, reach out to us:
 
-- **Email:**uneswa.gdg@gmail.com
+- **Email:** uneswa.gdg@gmail.com
 
 ---
 
